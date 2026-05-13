@@ -4,8 +4,24 @@ documentación de mi proceso para la solemne 2
 - ## link p5js
 - ## visor pantalla completa
 
-# Un poco de mi enfoqué para mi trabajo
+## Un poco de mi enfoqué para mi trabajo
 
 Las obras de Victor Vasarely, quien es considerado el padre del Op Art, fueron las que me dieron una idea de lo que estaba buscando hacer para esta solemne. 
 Considero que Victor Vasarely cumple perfectamente con el objetivo de la entrega, ya que:
-- 
+
+- Usa figuras básicas, pero las distorsiona para dar el efecto de ilusión optica.
+- Colores vibrantes que llaman la atención, pero también los clásicos para este efecto: el negro y el blanco.
+-
+-
+
+## Documentación del proceso
+
+
+##  Descripción objetiva
+
+
+## Descripción conceptual
+
+
+## Input / Output y sistema + Diagrama de flujo 
+
