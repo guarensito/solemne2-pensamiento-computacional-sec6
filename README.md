@@ -10,9 +10,8 @@ Las obras de Victor Vasarely, quien es considerado el padre del Op Art, fueron l
 Considero que Victor Vasarely cumple perfectamente con el objetivo de la entrega, ya que:
 
 - Usa figuras básicas, pero las distorsiona para dar el efecto de ilusión optica.
-- Colores vibrantes que llaman la atención, pero también los clásicos para este efecto: el negro y el blanco.
--
--
+- Colores vibrantes que llaman la atención.
+- Tiene muchas formas de llevarse a cabo en p5.js
 
 ## Documentación del proceso
 
