@@ -6,6 +6,7 @@ documentación de mi proceso para la solemne 2
 
 ## Un poco de mi enfoqué para mi trabajo
 ![imagen](Imagenes_Solemne2/VictorVasarely2.webp)
+
 Las obras de Victor Vasarely, quien es considerado el padre del Op Art, fueron las que me dieron una idea de lo que estaba buscando hacer para esta solemne. 
 Considero que Victor Vasarely cumple perfectamente con el objetivo de la entrega, ya que:
 
