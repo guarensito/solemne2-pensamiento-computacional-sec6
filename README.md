@@ -5,7 +5,7 @@ documentación de mi proceso para la solemne 2
 ## visor pantalla completa
 
 ## Un poco de mi enfoqué para mi trabajo
-![imagen](Imagenes_PensamientoC/) ![imagen](Imagenes_Solemne2/)
+![imagen](Imagenes_PensamientoC/opartinspo)
 
 Las obras de Victor Vasarely, quien es considerado el padre del Op Art, fueron las que me dieron una idea de lo que estaba buscando hacer para esta solemne. 
 Considero que Victor Vasarely cumple perfectamente con el objetivo de la entrega, ya que:
@@ -15,7 +15,22 @@ Considero que Victor Vasarely cumple perfectamente con el objetivo de la entrega
 - Tiene muchas formas de llevarse a cabo en p5.js
 
 ## Documentación del proceso
+**Primer paso** Antes de empezar mi proyecto, tuve que definir las variables que usaré durante todo el proceso (variantes globales)
+ let cantidadLineas 
 
+ let rangoInteractividad
+
+function setup() {
+  createCanvas(600, 600);
+    
+  strokeWeight(4);
+  line(20, 40, 80, 40);
+   noFill();
+  
+}
+ Al poner play, no se veía nada 
+
+ (insertar foto) 
 
 ##  Descripción objetiva
 
