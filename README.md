@@ -28,9 +28,12 @@ function setup() {
    noFill();
   
 }
+
  Al poner play, no se veía nada 
 
  (insertar foto) 
+
+**Segundo paso**
 
 ##  Descripción objetiva
 
