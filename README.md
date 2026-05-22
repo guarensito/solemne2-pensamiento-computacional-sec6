@@ -7,12 +7,10 @@ documentación de mi proceso para la solemne 2
 ## Un poco de mi enfoqué para mi trabajo
 ![imagen](Imagenes_PensamientoC/opartinspo)
 
-Las obras de Victor Vasarely, quien es considerado el padre del Op Art, fueron las que me dieron una idea de lo que estaba buscando hacer para esta solemne. 
-Considero que Victor Vasarely cumple perfectamente con el objetivo de la entrega, ya que:
+Mi inspiración para este proyecto fue el Op Art, ya que considero que se puede replicar alguna obra en p5.js para que sea interactivo
 
-- Usa figuras básicas, pero las distorsiona para dar el efecto de ilusión optica.
+- Se pueden usar distintas figuras básicas, desde geometricas y líneas.
 - Colores vibrantes que llaman la atención.
-- Tiene muchas formas de llevarse a cabo en p5.js
 
 ## Documentación del proceso
 **Primer paso** Antes de empezar mi proyecto, tuve que definir las variables que usaré durante todo el proceso (variantes globales)
