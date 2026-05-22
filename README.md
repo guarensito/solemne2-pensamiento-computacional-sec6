@@ -5,7 +5,7 @@ documentación de mi proceso para la solemne 2
 ## visor pantalla completa
 
 ## Un poco de mi enfoqué para mi trabajo
-![imagen](Imagenes_PensamientoC/opartinspo)
+![imagen](Imagenes_PensamientoC/opartinspo.webp)
 
 Mi inspiración para este proyecto fue el Op Art, ya que considero que se puede replicar alguna obra en p5.js para que sea interactivo
 
