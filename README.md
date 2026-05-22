@@ -1,8 +1,8 @@
 # solemne2-pensamiento-computacional-sec6
 documentación de mi proceso para la solemne 2 
 
-- ## link p5js
-- ## visor pantalla completa
+## link p5js
+## visor pantalla completa
 
 ## Un poco de mi enfoqué para mi trabajo
 ![imagen](Imagenes_Solemne2/VictorVasarely2.webp) ![imagen](Imagenes_Solemne2/)
