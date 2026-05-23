@@ -50,7 +50,8 @@ function draw() {
 ```
 #
 - Al poner play nos dimos cuenta que no podíamos poner el "dibujarPunto(x,y), entonces si queríamos ver en ese momento como iba nuestro lienzo, teníamos que borrarlo.
- 8INSERTAR FOTOOOO
+- 
+![imagen](Proceso_Solemne2/parte2.png)
 
   **Tercer paso parte. 1** Ahora ejecutamos nuestra función propia, la función recibe la posición de cada punto de la cuadrícula y mide qué tan lejos está del mouse. 
 
@@ -75,7 +76,8 @@ function dibujarPunto(x,y) {
   tam = constrain(tam, 2, 35);
  ```
 #
-INSERTAR FOTOOOOO
+
+![imagen](Proceso_Solemne2/parte3.png)
 
  **Tercer paso parte. 2** Por último, definimos una condición basada en la distancia al mouse: si el punto está a menos de 150px se pinta de negro y si está más lejos de 150px se pinta de gris. Finalmente, cada punto se dibuja como un círculo usando el comando ellipse(), tomando su posición en la cuadrícula y el tamaño calculado según la distancia.
 ```  
@@ -94,7 +96,8 @@ INSERTAR FOTOOOOO
 ```
 
 #
-FOTOOOO
+
+![imagen](Proceso_Solemne2/partefinal.png)
 
 ##  Descripción objetiva
 
@@ -133,5 +136,5 @@ El mouse es el único control, y su posición es lo que mantiene el sistema vivo
 
 **Qué respuesta visual producen** Como lo hemos dicho anteriormente, los puntos cercanos al mouse crecen y se vuelven negros, los lejanos se achican y se vuelven grises. El resultado es una animación continua que reacciona en tiempo real al movimiento del usuario.
 
-![imagen](Diagrama/Diagramadeflujo.png)
+![imagen](Diagrama/Diagrama.png)
 
