@@ -1,25 +1,27 @@
 # solemne2-pensamiento-computacional-sec6
-documentación de nuestro proceso para la solemne 2 
+Documentación de nuestro proceso para la solemne 2 
 
-Renata Martinez
-Francisca Castro
+- Renata Martinez
+
+- Francisca Castro
 
 ## links
-- p5.js
+- p5.js:  https://editor.p5js.org/renata.martinez/sketches/dmXlTCaDo
 
-- visor pantalla completa
+- visor pantalla completa:  https://editor.p5js.org/renata.martinez/full/dmXlTCaDo
 
 ## Un poco de nuestro enfoque para el proyecto
 ![imagen](Inspiración/inspo2.png)
 
-Nuestro enfoqué nació de querer representar esta especie de textura a través de un diseño interactivo. Encontramos que sería interesante llevarlo a cabo para nuestra solemne, aparte que cumple con los requerimientos para hacerlo interactivo:
+El proyecto nació del interés por representar una textura visual a través del diseño interactivo. La imagen presentaba características que se traducían de forma natural al código:
 
-- Tiene una cuadrícula de elementos que podrían variar de tamaño según el mouse.
-- El foco de expansión podría controlarse con el mouse.
+- Tiene una cuadrícula de elementos que varían de tamaño según la posición del mouse.
+- El foco de expansión puede controlarse con el mouse.
 
 ## Documentación del proceso 
-(Para leer nuestros comentarios vea el link p5.js)
-**Primer paso** Definir las variantes globales, esto es para que loscódigos que pongamos en un inicio, se sigan usando permanentemente en el proyecto.
+(Acá solo ponemos los códigos, no los comentarios que poníamos)
+
+**Primer paso** Definir las variantes globales, esto es para que los códigos que pongamos en un inicio, se sigan usando permanentemente en el proyecto.
 ```
  let espacio=36;
  function setup() {
@@ -28,7 +30,6 @@ Nuestro enfoqué nació de querer representar esta especie de textura a través 
 }
 ```
 #
-Al poner play, no se verá nada porque solo definimos las reglas que seguirán las proximas funciones
 
 ![imagen](Proceso_Solemne2/parte1.png)
 
@@ -50,14 +51,12 @@ function draw() {
 ```
 #
 - Al poner play nos dimos cuenta que no podíamos poner el "dibujarPunto(x,y), entonces si queríamos ver en ese momento como iba nuestro lienzo, teníamos que borrarlo.
-- 
+
 ![imagen](Proceso_Solemne2/parte2.png)
 
   **Tercer paso parte. 1** Ahora ejecutamos nuestra función propia, la función recibe la posición de cada punto de la cuadrícula y mide qué tan lejos está del mouse. 
 
-Con esa distancia definida, decide el tamaño del punto: los cercanos al mouse son grandes y los lejanos son pequeños.
-
- Le agrega un pequeño temblor aleatorio para que no se vea estático y aburrido. Si el punto está cerca del mouse se pinta negro, si está lejos se pinta gris y se verá más pequeño.
+Con esa distancia definida, decide el tamaño del punto: los cercanos al mouse son grandes y los lejanos son pequeños. Le agrega un pequeño temblor aleatorio para que no se vea estático y aburrido. Si el punto está cerca del mouse se pinta negro, si está lejos se pinta gris y se verá más pequeño.
 
  ```
 function dibujarPunto(x,y) {
