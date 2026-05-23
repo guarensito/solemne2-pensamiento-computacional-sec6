@@ -26,7 +26,8 @@ Nuestro enfoqué nació de querer representar esta especie de textura a través 
 ```
 #
 Al poner play, no se verá nada porque solo definimos las reglas que seguirán las proximas funciones
- (insertar foto) 
+
+![imagen](Proceso_Solemne2/parte1.png)
 
 **Segundo paso** Nos vamos a fuction draw para definir nuestra función propia, pero antes dejamos puestas las columnas y filas que usaremos.
 ```
