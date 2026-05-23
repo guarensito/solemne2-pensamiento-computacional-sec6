@@ -1,5 +1,8 @@
 # solemne2-pensamiento-computacional-sec6
-documentación de mi proceso para la solemne 2 
+documentación de nuestro proceso para la solemne 2 
+
+Renata Martinez
+Francisca Castro
 
 ## links
 - p5.js
@@ -130,4 +133,5 @@ El mouse es el único control, y su posición es lo que mantiene el sistema vivo
 
 **Qué respuesta visual producen** Como lo hemos dicho anteriormente, los puntos cercanos al mouse crecen y se vuelven negros, los lejanos se achican y se vuelven grises. El resultado es una animación continua que reacciona en tiempo real al movimiento del usuario.
 
+![imagen](Diagrama/Diagramadeflujo.png)
 
